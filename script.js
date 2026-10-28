@@ -1,5 +1,5 @@
 // PASTE YOUR GOOGLE WEB APP URL HERE
-const GOOGLE_APP_SCRIPT_URL = "YOUR_WEB_APP_URL_HERE";
+const GOOGLE_APP_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbz6JQjMc_GD-wJwbAh_YbbvommCoD0olKzsBSFj64Et0t3oULUx8zQbhKvLS7euSnnF/exec";
 
 // State Variables
 let currentQuestionIndex = 0;
